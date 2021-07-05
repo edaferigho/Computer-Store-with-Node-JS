@@ -1,0 +1,12 @@
+{
+  "name": "laptop-store",
+  "version": "1.0.0",
+  "description": "A laptop store that keeps track of products",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edaferigho",
+  "license": "ISC"
+}
